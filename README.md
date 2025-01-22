@@ -27,7 +27,7 @@ We will work on this using a tool called Flyway that can be run from the command
 
 ---
 
-Go to [https://documentation.red-gate.com/fd/command-line-184127404.html](https://documentation.red-gate.com/fd/command-line-184127404.html) find the Community Edition download for your Operating System and download it.
+Go to [https://documentation.red-gate.com/fd/installers-172490864.html](https://documentation.red-gate.com/fd/installers-172490864.html) find the Community Edition download for your Operating System and download it.
 
 Unzip the download into a folder where you want it to be installed/remain for the time you will be using it (you probably want to move it out of the Downloads folder, but where you put it is up to you).
 
